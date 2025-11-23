@@ -2,7 +2,7 @@
 
 這是一個專為台灣自由接案者 (Freelancers) 設計的現代化報價單產生器。基於純前端技術 (HTML/CSS/JS) 構建，無需後端伺服器，資料完全儲存於您的瀏覽器中，安全且隱私。
 
-🔗 **[線上使用 Live Demo]()**
+🔗 **[線上使用 Live Demo](https://xujiawei0812.github.io/quotation_generator/)**
 
 ## ✨ 主要功能
 
