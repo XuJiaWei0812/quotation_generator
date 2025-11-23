@@ -1,4 +1,4 @@
-# 專業報價單產生器 (Taiwan Freelancer Quotation Generator)
+# 報價單產生器 (Quotation Generator)
 
 這是一個專為台灣自由接案者 (Freelancers) 設計的現代化報價單產生器。基於純前端技術 (HTML/CSS/JS) 構建，無需後端伺服器，資料完全儲存於您的瀏覽器中，安全且隱私。
 
@@ -22,7 +22,7 @@
 
 ## 🛠️ 技術棧
 
-- **HTML5 / CSS3 / Vanilla JavaScript**
+- **HTML5 / CSS3 / JavaScript**
 - **Bootstrap 5** (用於 UI 格線系統與元件)
 - **Font Awesome** (圖示庫)
 - **Local Storage API** (資料持久化)
